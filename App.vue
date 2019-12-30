@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import jtopo from './components/jTopo'
+import jtopo from './components/relative'
 export default {
   name: 'app',
   components:{jtopo}
